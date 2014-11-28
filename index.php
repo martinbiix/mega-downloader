@@ -1,7 +1,7 @@
 <?php
 require_once('mega.class.php');
 
-$megafile = new MEGA('https://mega.co.nz/#!yl5EFARS!c6T1en1P8N9GuQzsMy5iCh2U9NEmuqTvSd4KkW42UX4');
+$megafile = new MEGA('https://mega.co.nz/#!8UU2AAYZ!f5D1cF3byY5n4tRTfDGkjlww3jQX6FeDIKHYGEXy_z0');
 
 $megafile->download();
 // OR
